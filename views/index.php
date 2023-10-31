@@ -4,14 +4,6 @@
 <head>
   <title>PABWE Praktikum 7</title>
   <link href="assets/vendor/bootstrap-5.2.3-dist/css/bootstrap.min.css" rel="stylesheet" />
-  <style>
-    body {
-      background-image: url('https://cdn.discordapp.com/attachments/784708322610774017/1168597685574578337/bell-pepper-8079.gif?ex=65525867&is=653fe367&hm=976ad638fa795c11ca2b7fd751430970395320ea22660721824ee7a39c9c2b4a&');
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-    }
-  </style>
 </head>
 
 <body>
